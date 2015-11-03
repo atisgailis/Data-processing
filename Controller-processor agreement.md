@@ -6,8 +6,6 @@ Personal data: any information relating to an identified or identifiable natural
  
 Data processing: any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction
  
-4finance: relevant company of 4finance group
- 
 Data receiver: person/company to whom data is disclosed
  
 Principles
@@ -35,16 +33,16 @@ Data receiver shall warrant it has full power and authority to receive, store an
  
 Data may not be transferred outside country or in case country is member of EU/EEA - outside EEA (unless allowed by local legislation and/or local Data Protection Authority). 
  
-Data receiver shall comply with all reasonable requests by the 4finance towards data processing.
-4finance will have a right to inspect and audit the Data receiver’s Data processing activities, facilities, processes and procedures, documents and equipment (and/or those of its agents, subsidiaries and sub-contractors) to enable the 4finance to verify that the Data receiver is complying fully with its obligations under Agreement.
+Data receiver shall comply with all reasonable requests by the Controller towards data processing.
+Controller will have a right to inspect and audit the Data receiver’s Data processing activities, facilities, processes and procedures, documents and equipment (and/or those of its agents, subsidiaries and sub-contractors) to enable the Controller to verify that the Data receiver is complying fully with its obligations under Agreement.
  
-Data receiver shall obtain the prior written consent from the 4finance in order to transfer the Data to any sub-contractors for the provision of the services or the performance of any of the obligations of the Data receiver under the Agreement. Besides Data receiver shall enter into written contract before Data transfer may occur.
+Data receiver shall obtain the prior written consent from the Controller in order to transfer the Data to any sub-contractors for the provision of the services or the performance of any of the obligations of the Data receiver under the Agreement. Besides Data receiver shall enter into written contract before Data transfer may occur.
  
-4finance may at any time terminate agreement or request Data receiver to immediately stop Data processing if Data receiver doesn't comply with Agreement and/or the 4finance’s requirements or instructions (whether specific or general) regarding the processing of the Data.
-Data receiver shall immediately inform 4finance if Data is accessed by unauthorized person.
-Data receiver shall notify 4finance forthwith upon it becoming aware that it is or is likely to become unable to comply with either its obligations under this Agreement and/or the 4finance’s requirements or instructions (whether specific or general) regarding the processing of the Data whereupon 4financeshall be entitled, at its sole discretion, to either suspend the right of the Data receiver to process Data under or pursuant to the terms of Agreement or terminate Agreement.
+Controller may at any time terminate agreement or request Data receiver to immediately stop Data processing if Data receiver doesn't comply with Agreement and/or the Controller’s requirements or instructions (whether specific or general) regarding the processing of the Data.
+Data receiver shall immediately inform Controller if Data is accessed by unauthorized person.
+Data receiver shall notify Controller forthwith upon it becoming aware that it is or is likely to become unable to comply with either its obligations under this Agreement and/or the Controller’s requirements or instructions (whether specific or general) regarding the processing of the Data whereupon Controller shall be entitled, at its sole discretion, to either suspend the right of the Data receiver to process Data under or pursuant to the terms of Agreement or terminate Agreement.
  
-Upon termination of Agreement or by request of 4finance Data receiver shall immediately stop processing Data and return Data to 4finance and/or delete Data, and instruct Data receiver's sub-contractors to delete all Data in its possession.
+Upon termination of Agreement or by request of Controller Data receiver shall immediately stop processing Data and return Data to Controller and/or delete Data, and instruct Data receiver's sub-contractors to delete all Data in its possession.
  
-Data receiver is liable for and shall indemnify and keep 4finance fully indemnified on demand from and against each and every action, proceeding, liability, loss, damage, cost, claim, fine, expense and/or demand suffered or incurred by the 4finance which arise from or in connection with or pursuant to any act or omission of or the performance of the Data receiver’s obligations under Agreement.
+Data receiver is liable for and shall indemnify and keep Controller fully indemnified on demand from and against each and every action, proceeding, liability, loss, damage, cost, claim, fine, expense and/or demand suffered or incurred by the Controller which arise from or in connection with or pursuant to any act or omission of or the performance of the Data receiver’s obligations under Agreement.
 
